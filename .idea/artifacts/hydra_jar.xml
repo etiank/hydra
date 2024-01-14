@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hydra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hydra_jar</output-path>
+    <root id="archive" name="hydra.jar">
+      <element id="module-output" name="hydra" />
+    </root>
+  </artifact>
+</component>
