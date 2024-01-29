@@ -1,5 +1,10 @@
-Hydra, a non-malicious self-replicating program 🐍
+Hydra, a non-malicious replicating program 🐍
 --------------------------------------------------
+
+Functionality: after running the program, pressing
+the `OK` button, or trying to close the window will
+result in more windows popping up.
+
 This program was developed as a personal challenge
 to replicate the functionality of the hydra program
 available at https://www.windows93.net/. It is labeled as
@@ -17,3 +22,4 @@ program will necessitate restarting the affected machine.
 
 Alongside the code, in the repository you can also find
 the image used in the program, and a built JAR of the project.
+
