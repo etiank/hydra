@@ -12,3 +12,8 @@ program instances, potentially leading to the exhaustion of
 system resources and subsequent performance degradation.
 It is worth noting that once initiated, terminating the
 program will necessitate restarting the affected machine.
+
+![hydraw](https://github.com/etiank/hydra/assets/144434318/ae76f44d-523a-4665-8c48-be9cce532077)
+
+Alongside the code, in the repository you can also find
+the image used in the program, and a built JAR of the project.
